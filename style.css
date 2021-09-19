@@ -5,14 +5,17 @@
 @media only screen and (max-width: 480px){
     .navbtn {
         background-color: yellow;
-        width: 150px;
-        height: 120px;
+        width: 440px;
+        height: 270px;
     }
 }
 @media only screen and (min-width: 481px){
     .navbtn {
         background-color: blue;
+        width: 220px;
+        height: 380;
     }
+    
 }
 @media only screen and (min-width: 1024px){
     .navbtn {
